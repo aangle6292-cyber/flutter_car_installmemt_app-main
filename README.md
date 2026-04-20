@@ -1,9 +1,7 @@
 # flutter_car_installmemt_app
 This project is a starting point for a Flutter application.
-
-<img width="300"  alt="1" src="https://github.com/user-attachments/assets/69469bfc-4d35-426c-8efc-2dd2566654da" />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img width="300"  alt="2" src="https://github.com/user-attachments/assets/3e44bb38-33a3-4d93-9758-198827bb26a9" />
 <br/><br/><br/>
+<img width="391" height="796" alt="Screenshot 2026-04-20 210218" src="https://github.com/user-attachments/assets/21eb52e4-2e52-4578-8a81-e0022053e2da" />
+<img width="386" height="795" alt="Screenshot 2026-04-20 210356" src="https://github.com/user-attachments/assets/76e2d90a-d0a0-4b8b-a1fb-cb36d4bace85" />
 
 
